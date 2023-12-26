@@ -9,7 +9,7 @@
 | :label: Technology Used | <div> <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"> </div>
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://github.com/Bruno-Regis/Portfolio/assets/149000097/a99bb15e-103a-421a-8a4d-ec9659908afc#vitrinedev)
+![image](https://github.com/Bruno-Regis/Python_Alura/assets/149000097/eb7a5dbc-4cf7-478d-9612-9a60b6b8fb01#vitrinedev)
 
 #### How to Play
 
